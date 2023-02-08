@@ -1,0 +1,144 @@
+
+*{
+    margin : 0px;
+    padding : 0px;
+    box-sizing: border-box;
+}
+body{
+background-color: rgb(62, 10, 62);
+display:flex;
+flex-direction: row;
+justify-content:center;
+align-items: center;
+margin-top: 200px;
+
+}
+
+
+.panierofficiel{
+
+border: 1px solid black;
+background-color: white;
+
+}
+
+td{
+    background-color: white;
+    width: 130px;
+    height:130px;
+    text-align: center;
+   
+}
+
+.position{
+ display:flex;
+flex-direction: row;
+
+}
+
+.modifier{
+
+margin-top: 30px;
+margin-left: 3px;
+}
+.suppression{
+
+    color: rgb(242, 10, 10);
+
+}
+
+.nomarticle{
+    color: rgb(6, 7, 6);
+    font-size: 30px;   
+
+}
+
+.Qnt{
+    color: rgb(6, 7, 6);
+    font-size: 30px;  
+}
+.prixunitaire{
+    color: rgb(6, 7, 6);
+    font-size: 30px;
+    width:200px;  
+
+}
+.Soustotal{
+    color: rgb(6, 7, 6);
+    font-size: 30px;  
+    width:200px;
+}
+
+.compteur{
+    width: 250px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+    margin-bottom:30px ;
+}
+
+.moins{margin-left: 20px; height:30px; width: 30px; border-radius: 50rem; margin-top:2rem; color:white; background-color: rgb(157, 149, 149);border: 1px solid white;}
+.moins:hover{ background-color: blueviolet;}
+.plus{margin-left: 25px;height:30px; width: 30px; border-radius: 20rem;margin-top:2rem; color:white; background-color: rgb(154, 149, 149);border: 1px solid white;}
+.plus:hover{ background-color: blueviolet;}
+.nombre{margin-left: 25px;height:37px;width: 70px;margin-top:2rem;color:black; background-color:white; border: 1px solid rgb(51, 49, 49); text-align: center;font-size:30px;}
+.nombre2{height:17px;width:10px;margin-top:2rem;color:black; background-color:white; text-align: center;font-size:30px; margin-left:50px;}
+.nombre3{height:10px;width:10px;margin-top:2rem;color:black; background-color:white; text-align: center;font-size:30px;margin-left:95px;}
+
+.aplicable{
+    height:50px;
+}
+
+.nombre4{
+  background-color: white;
+  border: 1px solid black;
+  margin-left: 100px; 
+  width:200px;
+  height: 30px;
+  position: relative;
+  left: -50px;
+  
+  
+}
+.nombre5{
+    background-color: white;
+    border: 1px solid black;margin-left: 120px;
+     width:60px; 
+     height:30px;
+     position: relative;
+     left: -80px;
+}
+.ajoute{
+  background-color: rgb(81, 176, 245);margin-left: 300px;
+  border-radius: 11px;  
+   position: relative;
+   font-size:15px;
+  left: -165px;
+  height: 35px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
